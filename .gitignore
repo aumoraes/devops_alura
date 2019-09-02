@@ -1,0 +1,4 @@
+ubuntu-bionic*
+.vagrant
+vagrant/configs/id_rsa
+vagrant/configs/id_rsa.pub
